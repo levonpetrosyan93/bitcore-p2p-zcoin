@@ -11,6 +11,18 @@ Bitcore P2P
 
 See [the main bitcore repo](https://github.com/bitpay/bitcore) for more information.
 
+TODO
+
+```sh
+
+Bitcore-build maybe coinified? 
+
+tests - zcoin network ?
+
+
+```
+
+
 ## Getting Started
 
 ```sh

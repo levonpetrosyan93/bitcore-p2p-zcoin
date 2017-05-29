@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-p2p",
+  "name": "bitcore-p2p-zcoin",
   "version": "1.1.2",
-  "description": "Interface to the bitcoin P2P network for bitcore",
+  "description": "Interface to the bitcoin P2P network for bitcore Zcoin",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -48,12 +48,12 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "zcoin",
     "bitcore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-p2p.git"
+    "url": "https://github.com/technoprenerd/bitcore-p2p-zcoin.git"
   },
   "dependencies": {
     "bitcore-lib": "^0.14",
