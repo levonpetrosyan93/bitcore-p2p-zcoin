@@ -53,10 +53,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/technoprenerd/bitcore-p2p-zcoin.git"
+    "url": "https://github.com/zcoinofficial/bitcore-p2p-zcoin.git"
   },
   "dependencies": {
-    "bitcore-lib-zcoin": "git://github.com/technoprenerd/bitcore-lib-zcoin.git",
+    "zcore-lib": "git://github.com/zcoinofficial/zcore-lib.git",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"

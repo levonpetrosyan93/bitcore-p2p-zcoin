@@ -22,7 +22,7 @@ tests - zcoin network ?
 
 ```
 
-packages.json - bitcore-lib-zcoin, github url, since it's not available in npm repository.
+packages.json - zcore-lib, github url, since it's not available in npm repository.
 
 
 ## Getting Started
